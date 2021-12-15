@@ -1,9 +1,11 @@
 import React from 'react'
 
-export const LazyPageThree = () => {
+export const LazyPage3 = () => {
     return (
         <div>
             <h1>LazyThree</h1>
         </div>
     )
 }
+
+export default LazyPage3;
